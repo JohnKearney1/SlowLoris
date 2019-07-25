@@ -16,7 +16,7 @@ print(timmiller32)
 print("\n")
 
 # Ask for input
-input_var = input(">>>")
+input_var = input(">>> ")
 
 if int(input_var) == 1:
     exec(open("Cryptography.py").read());
