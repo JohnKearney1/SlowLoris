@@ -12,7 +12,7 @@
 
 ____________________________________________________________________________________________
 |                                                                                           |
-|                                      MultiProject - "X"                                   |
+|                                   MultiProject - "1.02"                                   |
 |                      Please Choose an option from the menu below:                         |
 |                     Monitor Needed - [MO]  |   Managed Needed - [MA]                      |
 |       1. SHA512 Hasher                                                              [N/A] |
@@ -20,5 +20,6 @@ ________________________________________________________________________________
 |       3. Slow Loris                                                                  [MA] |
 |       4. PurePY BruteForce                                                           [MA] |
 |       5. Network Mapper                                                              [MA] |
-|       6. Exit                                                                       [N/A] |
+|       6. Email Spoofer                                                              [N/A] |
+|       7. Exit                                                                       {N/A] |
 |___________________________________________________________________________________________|
