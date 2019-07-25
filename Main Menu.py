@@ -31,7 +31,7 @@ if int(input_var) == 4:
     exec(open("Bruteforce.py").read());
 
 if int(input_var) == 5:
-    os.system("Py NetworkScanner.py -i " + input("Enter Network Interface (Monitor Mode) >>> "))
+    exec(open("NetworkScanner.py").read());
 
 if int(input_var) == 6:
     print(" Goodbye!\n - TimMiller32"),
