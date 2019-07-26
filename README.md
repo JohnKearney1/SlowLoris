@@ -3,8 +3,8 @@
 $ git clone https://github.com/TimMiller32/TimMiller.git
 
 # Usage:
-# $ cd TimMiller32/
-# $ Python3 TimMiller32.py
+    $ cd TimMiller32/
+    $ Python3 TimMiller32.py
 You may login using "root" as username and password or create your own user locally.
 
 # Notes:
