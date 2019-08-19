@@ -16,7 +16,7 @@ ________________________________________________________________________________
 |                                  ~ Customizable Threading! ~                              |
 |                                                                                           |
 |   The PurePY Bruteforce is a directory based bruteforce attack that can be used on any    |
-|               website, router login, administrator console, or local domain/              |
+|               website, router login, administrator console, or local domain.              |
 |                                                                                           |
 |                                        TimMiller32                                        |
 |                                         R.I.P Jamal                                       |
