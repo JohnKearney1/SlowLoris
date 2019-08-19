@@ -1,4 +1,4 @@
-# TimMiller
+# TimMiller32
 # Installation:
 
 $ git clone https://github.com/TimMiller32/TimMiller.git
