@@ -2,11 +2,11 @@
 # Installation:
 
 Download the repository:
-	$ git clone https://github.com/TimMiller32/TimMiller.git
+	$ git clone https://github.com/JohnKearney1/SlowLoris.git
 
 
 # Usage:
-    $ cd TimMiller32/
+    $ cd JohnKearney1/
     $ Python3 TimMiller32.py
     
 You may login using "root" as username and password or create your own user locally.
@@ -26,5 +26,3 @@ You may login using "root" as username and password or create your own user loca
 	V1.02
 # Latest Release:
 	07/25/2019
-
-JMK
