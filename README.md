@@ -28,3 +28,5 @@ You may login using "root" as username and password or create your own user loca
 	V1.02
 # Latest Release:
 	07/25/2019
+# Latest Commit:
+	11/12/2020
