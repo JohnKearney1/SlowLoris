@@ -1,4 +1,6 @@
-# TimMiller32
+# SlowLoris - Antiquated
+This repo contains usage instructions for SlowLoris. This program is writtten in python and was previously named "TimMiller32". Pseudonym refrences have been removed from git repo although "TimMiller" refrences may continue to exist within the codebase.
+
 # Installation:
 
 Download the repository:
@@ -7,7 +9,7 @@ Download the repository:
 
 # Usage:
     $ cd JohnKearney1/
-    $ Python3 TimMiller32.py
+    $ Python3 SlowLoris1.py
     
 You may login using "root" as username and password or create your own user locally.
 
