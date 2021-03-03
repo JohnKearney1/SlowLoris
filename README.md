@@ -6,7 +6,8 @@ Most modern websites have protection from this kind of attack, but many smaller 
 
 # Installation:
 
-Download the repository:
+Download the repository:  
+	
 	$ git clone https://github.com/JohnKearney1/SlowLoris.git
 
 
