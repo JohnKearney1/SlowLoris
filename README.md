@@ -9,13 +9,22 @@ Most modern websites have protection from this kind of attack, but many smaller 
 Download the repository:  
 	
 	$ git clone https://github.com/JohnKearney1/SlowLoris.git
+	
+Install the dependencies:
+	
+	$ pip install -r requirements.txt
 
 
 # Usage:
+
+Open the directory:
+
     $ cd SlowLoris/  
-    ...
+
+Run SlowLoris1.py:
+
     $ Python3 SlowLoris1.py
-    ...
+
 You may login using "root" as username and password or create your own user locally.
 
 
