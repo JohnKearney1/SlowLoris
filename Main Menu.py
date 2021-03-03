@@ -1,5 +1,4 @@
-# "X" - TimMiller32
-# Project Started: 07/24/2019 2:00 AM - NC, USA
+# Project Started: 07/24/2019 2:00AM
 
 import os
 
