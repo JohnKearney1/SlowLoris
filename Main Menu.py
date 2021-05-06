@@ -2,8 +2,6 @@
 
 import os
 
-# Read "TimMiller32" header from "TIM.txt"
-
 while 1:
 
     f = open('TIM.txt', 'r')
