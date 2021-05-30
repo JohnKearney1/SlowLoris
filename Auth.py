@@ -4,14 +4,14 @@ import hashlib
 
 while 1:
     # Display menu prompt and record response in var 'input1'
-    input1 = input("\n\n1. Login\n2. Create User (Local)\n3. Info & usage\n\n>>> ")
+    input1 = int(input("\n\n1. Login\n2. Create User (Local)\n3. Info & usage\n\n>>> "))
 
     # Login
     if int(input1) == 1:
         # Open text file in read mode
         f = open("auth.txt", "r")
         # Ask for UID
-        UID = input("Enter Username >> ")
+        UID = input("\nEnter Username >> ")
         # Read text file into variable 'auth_txt'
         auth_txt = f.read()
 
@@ -21,6 +21,7 @@ while 1:
             password2 = hashlib.sha512(b'password1')
             pass_hex = password2.hexdigest()
             if pass_hex in auth_txt:
+                print(f'\nWelcome {username}!')
                 exec(open("Main Menu.py").read())
                 f.close()
                 exit()
@@ -57,7 +58,7 @@ while 1:
             f.write("\n")
             f.close()
             print("\n\nRegistered! Re-run Auth.py again to login!")
-            sys.exit(0)
+
         elif choice != 'Y':
             print("\n\nInvalid Selection; Exiting.")
 
@@ -68,4 +69,3 @@ while 1:
     elif int(input1) > 3 or int(input1) < 1:
         print("\n\nInvalid Selection; Exiting.")
         f.close()
-        sys.exit(0)
