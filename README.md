@@ -1,7 +1,5 @@
 # SlowLoris DOS
-This repo contains usage instructions for SlowLoris. This program is writtten in python and was previously named "TimMiller32". Pseudonym refrences have been removed from git repo although "TimMiller" refrences may continue to exist within the codebase.
-
-SlowLoris is a denial of service (DOS) module that effectively shutters a website by opening new connections and refusing to close old ones until a website is overloaded.
+This repo contains usage instructions for SlowLoris. This program is writtten in python. SlowLoris is a denial of service (DOS) module that effectively shutters a website by opening new connections and refusing to close old ones until a website is overloaded.
 Most modern websites have protection from this kind of attack, but many smaller cloud based shared hosting services are not designed to hold many simultaneous conenctions for extended periods of time.
 
 # Installation:
